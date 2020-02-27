@@ -1,0 +1,15 @@
+===API===
+TODO: basic graphql api
+
+==TEXT===
+TODO: basic sql message storage database
+
+===IMAGES===
+MAYBE
+TODO: basic sql image storage as VARBINARY when image is <256KB in size
+TODO: basic image storage on filesystem when image is >256KB, check FILESTREAM
+MAYBE
+TODO: basic sql image storage as BLOB, filesize limit?
+TODO: basic sql image storage via DBLINK, filesize limit?
+TODO: basic sql image storage as bytea (BYTE Array)
+TODO: basic sql image caching? thumbnails?
